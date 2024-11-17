@@ -1,9 +1,5 @@
 # 💫About Me :
 
-I'm a full-stack web developer with a bias toward front-end.
-Majorly work with MERN stack and Next js for SEO applications.
-Working towards getting a certification in AWS solutions cloud associate
-
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amasa-abubakar-5238a321a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amasaabubakar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13049523) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aremson_A) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC31heozknYgFQuuaztPWh6Q)
